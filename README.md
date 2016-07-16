@@ -1,2 +1,2 @@
 # hypohype
-Software to optimise a Dutch mortgages
+Software to optimise Dutch mortgages
